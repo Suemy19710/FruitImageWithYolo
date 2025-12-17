@@ -1,0 +1,15 @@
+path: data
+train: train/images
+val: validation/images
+nc: 10
+names:
+- Apple
+- Banana
+- Grapes
+- Guava
+- Hog Plum
+- Jackfruit
+- Litchi
+- Mango
+- Orange
+- Papaya
